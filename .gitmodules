@@ -1,0 +1,9 @@
+[submodule "external/gtest"]
+	path = external/gtest
+	url = https://github.com/google/googletest.git
+[submodule "external/benchmark"]
+	path = external/benchmark
+	url = git@github.com:google/benchmark.git
+[submodule "external/paho_mqtt_c"]
+	path = external/paho_mqtt_c
+	url = git@github.com:eclipse/paho.mqtt.c.git

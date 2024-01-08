@@ -1,0 +1,2 @@
+add_subdirectory(constexpr)
+add_subdirectory(lambda)
